@@ -2,10 +2,9 @@
 The weather visualization project is aimed at visualizing key
 weather parameters e.g temperature, precipitation, soil temperature and weather
 types over the time span of a decade (2010-01-01 - 2020-01-28) across various
-cities in the United States using Matplotlib and P. The data set is derived from the
- National Oceanic
-and Atmospheric Administration weather stations (NOAA) Global Historical 
-Climatology Network - Daily (GHCN-Daily) dataset.
+cities in the United States using Matplotlib and Plotly. The data set is derived from
+the National Oceanic and Atmospheric Administration weather stations (NOAA) Global
+Historical Climatology Network - Daily (GHCN-Daily) dataset.
     
 Global Historical Climate Network includes daily land surface observations from 
 around the world. The GHCN-Daily was developed to meet the needs of climate analysis 
@@ -32,10 +31,13 @@ and minimum temperatures, total precipitation, snowfall, and depth of snow on gr
 - PRCP - Precipitation
 - WT01 - Fog, ice fog, or freezing fog (may include heavy fog)
 - WT02 - Heavy fog or heaving freezing fog (not always distinguished from fog)
+- WT03 - Thunder
+- WT04 - Ice pellets, sleet, snow pellets, or small hail"
 - WT05 - Hail (may include small hail)
 - WT07 - Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction
 - WT08 - Smoke or haze 
 - WT09 - Blowing or drifting snow
+- WT11 - High or damaging winds
 - WT13 - Mist
 - WT16 - Rain (may include freezing rain, drizzle, and freezing drizzle)"
 - WDF2 - Direction of fastest 2-minute wind
@@ -46,3 +48,5 @@ and minimum temperatures, total precipitation, snowfall, and depth of snow on gr
 - AWND - Average wind speed
 - PGTM - Peak gust time
 - SNWD - Snow depth
+- TOBS - Temperature at the time of observation
+- WESF - Water equivalent of snowfall

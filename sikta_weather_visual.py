@@ -42,6 +42,7 @@ with open(filename) as file_object:
     ax.set_ylabel("Temperature (F)", fontsize=14)
     # Set the size of the tick labels.
     ax.tick_params(axis='both', which='major', labelsize=14)
+    plt.ylim(10, 150)
 
 
 if __name__ == "__main__":

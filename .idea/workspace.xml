@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cbf098f-a698-4b20-b1f1-a3e4082c1aa6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/johnphillip.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/death_valley_visual.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/death_valley_weather_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sikta_weather_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/austin_weather_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison_visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/san_francisco_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sikta_death_valley_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sikta_rainfall_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitka_rainfall_2018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather_data/san_francisco_2018_full.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/johnphillip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/johnphillip.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sikta_highs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/death_valley_weather_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/death_valley_weather_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sikta_weather_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/sikta_weather_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather_analysis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_data/seattle_weather_2010_2020.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_data/seattle_weather_2010_2020.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +48,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/weather_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sikta_weather_visual">
+  <component name="RunManager" selected="Python.san_francisco_visual">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +74,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="austin_weather_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/austin_weather_visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="death_valley_weather_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/death_valley_weather_visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="san_francisco_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="weather_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +125,46 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/death_valley_weather_visual.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/san_francisco_visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sikta_death_valley_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sikta_death_valley_visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sikta_rainfall_visual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/python_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sikta_rainfall_visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,9 +197,17 @@
     <list>
       <item itemvalue="Python.sikta_weather_visual" />
       <item itemvalue="Python.death_valley_weather_visual" />
+      <item itemvalue="Python.austin_weather_visual" />
+      <item itemvalue="Python.sikta_rainfall_visual" />
+      <item itemvalue="Python.sikta_death_valley_visual" />
+      <item itemvalue="Python.san_francisco_visual" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.san_francisco_visual" />
+        <item itemvalue="Python.sikta_death_valley_visual" />
+        <item itemvalue="Python.sikta_rainfall_visual" />
+        <item itemvalue="Python.austin_weather_visual" />
         <item itemvalue="Python.death_valley_weather_visual" />
       </list>
     </recent_temporary>
@@ -137,29 +233,29 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="424" y="262" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1580045643957" />
-    <state width="1899" height="344" key="GridCell.Tab.0.bottom" timestamp="1580341019083">
+    <state width="1899" height="344" key="GridCell.Tab.0.bottom" timestamp="1580605730129">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580341019083" />
+    <state width="1899" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1580605730129" />
     <state width="1899" height="344" key="GridCell.Tab.0.bottom/0.23.1920.1115@0.23.1920.1115" timestamp="1580254416935" />
-    <state width="1899" height="344" key="GridCell.Tab.0.center" timestamp="1580341019082">
+    <state width="1899" height="344" key="GridCell.Tab.0.center" timestamp="1580605730124">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580341019082" />
+    <state width="1899" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1580605730124" />
     <state width="1899" height="344" key="GridCell.Tab.0.center/0.23.1920.1115@0.23.1920.1115" timestamp="1580254416934" />
-    <state width="1899" height="344" key="GridCell.Tab.0.left" timestamp="1580341019081">
+    <state width="1899" height="344" key="GridCell.Tab.0.left" timestamp="1580605730122">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580341019081" />
+    <state width="1899" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1580605730122" />
     <state width="1899" height="344" key="GridCell.Tab.0.left/0.23.1920.1115@0.23.1920.1115" timestamp="1580254416933" />
-    <state width="1899" height="344" key="GridCell.Tab.0.right" timestamp="1580341019083">
+    <state width="1899" height="344" key="GridCell.Tab.0.right" timestamp="1580605730126">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1899" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580341019083" />
+    <state width="1899" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1580605730126" />
     <state width="1899" height="344" key="GridCell.Tab.0.right/0.23.1920.1115@0.23.1920.1115" timestamp="1580254416934" />
-    <state x="637" y="432" key="com.intellij.ide.util.TipDialog" timestamp="1580330802605">
+    <state x="637" y="432" key="com.intellij.ide.util.TipDialog" timestamp="1580636021933">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="637" y="432" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1580330802605" />
+    <state x="637" y="432" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1580636021933" />
   </component>
 </project>
