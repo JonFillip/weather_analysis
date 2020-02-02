@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cbf098f-a698-4b20-b1f1-a3e4082c1aa6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/austin_weather_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comparison_visual.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/san_francisco_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sikta_death_valley_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sikta_rainfall_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sitka_rainfall_2018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather_data/san_francisco_2018_full.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/johnphillip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/johnphillip.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/death_valley_weather_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/death_valley_weather_visual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sikta_weather_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/sikta_weather_visual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_analysis.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather_analysis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_data/seattle_weather_2010_2020.csv" beforeDir="false" afterPath="$PROJECT_DIR$/weather_data/seattle_weather_2010_2020.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
