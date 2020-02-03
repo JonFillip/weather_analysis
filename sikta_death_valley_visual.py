@@ -26,8 +26,7 @@ def get_weather_visual(filename, dates, highs, lows, date_index, highs_index,
 
 
 # Get weather key data points for Sikta.
-record_name = "/Users/johnphillip/PycharmProjects/weather_analysis" \
-              "/weather_data/sitka_weather_2018_full.csv"
+record_name = "weather_data/sitka_weather_2018_full.csv"
 specific_date, high_temp, low_temp = [], [], []
 get_weather_visual(record_name, specific_date, high_temp, low_temp,
                    date_index=2, highs_index=8, lows_index=9)
@@ -41,8 +40,7 @@ plt.fill_between(specific_date, high_temp, low_temp, facecolor='gray',
                  alpha=0.1)
 
 # Get the dates, highest and lowest daily temperatures for Death Valley.
-record_name = "/Users/johnphillip/PycharmProjects/weather_analysis" \
-              "/weather_data/death_valley_2018_full.csv"
+record_name = "weather_data/death_valley_2018_full.csv"
 dates, highs, lows = [], [], []
 get_weather_visual(record_name, dates, highs, lows, date_index=2, highs_index=6,
                    lows_index=7)

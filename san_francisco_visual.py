@@ -2,8 +2,7 @@ import csv
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-filename = "/Users/johnphillip/PycharmProjects/weather_analysis/weather_data" \
-           "/san_francisco_2018_full.csv"
+filename = "weather_data/san_francisco_2018_full.csv"
 with open(filename) as data_type:
     reader = csv.reader(data_type)
     header_row = next(reader)

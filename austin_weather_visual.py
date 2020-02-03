@@ -2,8 +2,7 @@ import csv
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-filename = "/Users/johnphillip/PycharmProjects/weather_analysis/weather_data" \
-           "/austin_weather_2010_2020.csv"
+filename = "weather_data/austin_weather_2010_2020.csv"
 with open(filename) as weather_file:
     reader = csv.reader(weather_file)
     # Print out first row to check the indexes of the keys for the data types
